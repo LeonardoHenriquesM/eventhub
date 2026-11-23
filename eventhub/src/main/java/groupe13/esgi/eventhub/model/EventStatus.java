@@ -1,4 +1,4 @@
-package groupe13.esgi.eventhub.enums;
+package groupe13.esgi.eventhub.model;
 
 public enum EventStatus {
     disponible,
